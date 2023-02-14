@@ -1,3 +1,8 @@
+This is the repository for "Long Short Term Memory (LSTM) based
+Cuffless Continuous Blood Pressure Monitoring". You can checkout pdf file of our paper in our github repo.
+
+
+
 Each folder includes, following files:
 	1. sensortile-box-XXX (folder)
 		-IMU1-0.csv
