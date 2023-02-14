@@ -9,7 +9,8 @@ You can checkout pdf file of our paper in our github repo.
 
 # Example Datasets
 Each folder includes, following files:
-	sensortile-box-XXX (folder)
+
+	**sensortile-box-XXX (folder)
 		|
 		 ---IMU1-0.csv
 		|
